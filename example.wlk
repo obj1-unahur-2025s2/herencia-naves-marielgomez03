@@ -7,3 +7,7 @@ object pepita {
     energy = energy - minutes * 3
   }
 }
+
+object juanito {
+  var energia = 8465
+}
